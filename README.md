@@ -1,7 +1,3 @@
-# .github
-✨special ✨ readme repository
-
-
 # ⌬ VAULT7ZERO
 ### `THE ART OF SEEING BEYOND THE SYSTEM.`
 
@@ -26,7 +22,7 @@
 
 ---
 
-## ◈ 00 — THE BEGINNING
+## ◈ 00 - THE BEGINNING
 
 > *Every system has a surface. Every surface has a deeper layer.*
 
@@ -48,7 +44,7 @@ What begins as an idea becomes an experiment. What begins as an experiment can b
 
 ---
 
-## ⌬ 01 — OUR MISSION
+## ⌬ 01 - OUR MISSION
 
 We aim to explore the intersection of security, intelligence, and engineering.
 
@@ -65,7 +61,7 @@ Our mission is to develop and showcase projects that push technical boundaries w
 
 ---
 
-## 🛡️ 02 — SECURITY & RESEARCH
+## 🛡️ 02 - SECURITY & RESEARCH
 
 Security is not a destination. It is a continuous process.
 
@@ -86,7 +82,7 @@ Our approach is grounded in responsible disclosure, controlled testing, and auth
 
 ---
 
-## 🧠 03 — ARTIFICIAL INTELLIGENCE
+## 🧠 03 - ARTIFICIAL INTELLIGENCE
 
 *Intelligence is not just about processing information. It is about building systems that can make something meaningful out of it.*
 
@@ -107,7 +103,7 @@ Our goal is to explore how intelligent systems can become more capable, efficien
 
 ---
 
-## 📡 04 — INTELLIGENCE & ALERTS
+## 📡 04 - INTELLIGENCE & ALERTS
 
 Information becomes powerful when it reaches the right place at the right time.
 
@@ -127,7 +123,7 @@ The objective: transform fragmented information into actionable awareness.
 
 ---
 
-## ⚙️ 05 — ENGINEERING & ADVANCED TOOLS
+## ⚙️ 05 - ENGINEERING & ADVANCED TOOLS
 
 We believe in building rather than simply imagining.
 
@@ -141,7 +137,7 @@ Every project represents an opportunity to experiment, learn, and improve.
 
 ---
 
-## 🔬 06 — PROJECT ARCHIVE
+## 🔬 06 - PROJECT ARCHIVE
 
 This is where ideas become tangible.
 
@@ -153,7 +149,7 @@ Each project is an opportunity to investigate a concept, solve a problem, or exp
 
 ---
 
-## 🧬 07 — THE TECHNOLOGY MINDSET
+## 🧬 07 - THE TECHNOLOGY MINDSET
 
 We embrace modern technologies and evolving development ecosystems.
 
@@ -172,7 +168,7 @@ Our technical interests include:
 
 ---
 
-## ◈ 08 — OUR PRINCIPLES
+## ◈ 08 - OUR PRINCIPLES
 
 **01. Curiosity**
 
@@ -200,7 +196,7 @@ Learn, adapt, experiment, and improve.
 
 ---
 
-## 🔐 09 — RESPONSIBLE RESEARCH
+## 🔐 09 - RESPONSIBLE RESEARCH
 
 Vault7Zero supports ethical security research and responsible technological development.
 
@@ -212,7 +208,7 @@ We do not endorse unauthorized access, malicious exploitation, data theft, or ac
 
 ---
 
-## 🌌 10 — THE STORY CONTINUES
+## 🌌 10 - THE STORY CONTINUES
 
 There is a difference between using technology and understanding it.
 
@@ -242,7 +238,7 @@ We are here because there is always more to understand.
 
 ---
 
-## ⌬ 11 — CONNECT WITH THE PROJECT
+## ⌬ 11 - CONNECT WITH THE PROJECT
 
 <p align="center">
   <a href="https://github.com/Vault7Zero">
